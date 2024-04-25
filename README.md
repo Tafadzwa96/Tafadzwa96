@@ -2,31 +2,30 @@
 #### Student at Code Space
 
 
-👋 Hi there! I'm **Tafadzwa Muzamindo**, a passionate web development student at Code Space based in Cape Town. I'm on a journey to become a skilled web developer, and I'm excited to share my progress and projects with you through this portfolio.
+🚀 Hey there! I'm Tafadzwa, a web development enthusiast with a mission to empower the next generation of coders while building bridges and breaking boundaries in the digital world. Hailing from Cape Town South Afrika, I'm on a journey to weave magic into the web through code, creativity, and education.
 
 
 ### My Projects
-
 In this portfolio, you'll find a collection of projects that showcase my growth as a web developer. From simple static websites to interactive web applications, each project reflects my dedication to learning and my enthusiasm for creating meaningful digital experiences. 
 
+
 ### Skills
-HTML CSS JavaScript
+As a student of web development, I see each line of code as a brushstroke on the canvas of the internet. From crafting elegant layouts with HTML and CSS to breathing life into projects with JavaScript wizardry, I'm on a relentless pursuit of mastery in the art of web development
+
+### Empowering Future Innovators
+But my journey extends beyond building websites. I'm passionate about teaching as many young minds to code as I can. I believe in the transformative power of technology to unlock untapped potential and create opportunities for all. By sharing my knowledge and experience, I'm dedicated to empowering future innovators to shape a brighter digital future.
 
 ### Fun fact 
-My favorite color is blue🔵😀  
+Fun fact about me: when I'm not coding, you can find me at the gym, staying active and energized, or trying my hand at playing the piano, exploring the beautiful harmony between music and technology. 
 
 ### Lets Connect
-I'm always eager to connect with fellow developers, mentors, and industry professionals. Whether you have feedback on my projects, advice to share, or just want to chat about all things web development, don't hesitate to reach out! 📫 How to reach me: Email: gumbitafadzwa@gmail.com  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tafadzwa96)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tafadzwa-Muzamindo/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tg-norman/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Tafadzwa-Muzamindo)  
+I'm on a quest to push the boundaries of what's possible on the web while inspiring and educating others along the way. Whether you're a fellow developer, a curious learner, or someone passionate about the intersection of technology and education, let's collaborate, innovate, and create something extraordinary together. 📫 How to reach me: Email: gumbitafadzwa@gmail.com  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tafadzwa96)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tafadzwa-Muzamindo/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tg-norman/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Tafadzwa-Muzamindo)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafadzwa96)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tafadzwa96&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tafadzwa96)  
-
-
-
-- ⚡ Fun fact: My favorite color is blue🔵😀  
-
 
 
