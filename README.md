@@ -6,7 +6,7 @@
 
 👋 Hi there! I'm **Tafadzwa Muzamindo**, a passionate web development student at Code Space based in Cape Town. I'm on a journey to become a skilled web developer, and I'm excited to share my progress and projects with you through this portfolio.
 
-Skills: ![WebDeveloperMycrxnGIF](https://github.com/Tafadzwa96/Tafadzwa96/assets/64736588/4a4ac6aa-3a49-41ac-829f-128847e8fb56)
+Skills: 
 
 
 - 📫 How to reach me: Email: gumbitafadzwa@gmail.com   
