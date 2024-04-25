@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Tafadzwa Muzamindo
 #### Student at Code Space
+![Student at Code Space](https://github.com/Tafadzwa96/Tafadzwa96/blob/main/tafadzwa.jpg)
+
 👋 Hi there! I'm **Tafadzwa Muzamindo**, a passionate web development student at Code Space based in Cape Town. I'm on a journey to become a skilled web developer, and I'm excited to share my progress and projects with you through this portfolio.
 
 Skills: Tailwind / JS / HTML / CSS
@@ -15,6 +17,5 @@ Skills: Tailwind / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tafadzwa96&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tafadzwa96)  
-
 
 
