@@ -6,11 +6,13 @@
 
 👋 Hi there! I'm **Tafadzwa Muzamindo**, a passionate web development student at Code Space based in Cape Town. I'm on a journey to become a skilled web developer, and I'm excited to share my progress and projects with you through this portfolio.
 
-Skills: <img scr="images.png">
+### Skills
+HTML CSS JavaScript
+
 
 
 - 📫 How to reach me: Email: gumbitafadzwa@gmail.com   
-- ⚡ Fun fact: My favorite color is Blue🔵😀  
+- ⚡ Fun fact: My favorite color is blue🔵😀  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tafadzwa96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tafadzwa-Muzamindo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tg-norman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Tafadzwa-Muzamindo)  
