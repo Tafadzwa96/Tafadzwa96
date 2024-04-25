@@ -1,5 +1,3 @@
-![Student at Code Space](https://github.com/Tafadzwa96/Tafadzwa96/blob/main/tafadzwa.jpg)
-
 ### Hi there 👋, my name is Tafadzwa Muzamindo
 #### Student at Code Space
 
