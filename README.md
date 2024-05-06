@@ -22,9 +22,9 @@ Fun fact about me: when I'm not coding, you can find me at the gym, staying acti
 I'm on a quest to push the boundaries of what's possible on the web while inspiring and educating others along the way. Whether you're a fellow developer, a curious learner, or someone passionate about the intersection of technology and education, let's collaborate, innovate, and create something extraordinary together. 📫 How to reach me: Email: gumbitafadzwa@gmail.com  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tafadzwa96)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tafadzwa-Muzamindo/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tg-norman/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Tafadzwa-Muzamindo)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafadzwa96)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tafadzwa96&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafadzwa96)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tafadzwaTG&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tafadzwa96)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tafadzwaTG)  
 
 
 
